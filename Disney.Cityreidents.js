@@ -42,8 +42,8 @@ const STATUS_TIMEOUT = -1
 const STATUS_ERROR = -2
 
 const DEFAULT_OPTIONS = {
-  title: '𝗦𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴 𝗺𝗲𝗱𝗶𝗮 𝗗𝗶𝘀𝗻𝗲𝘆+( 解锁检测 )',
-  availableContent: '支持解锁 𝗗𝗶𝘀𝗻𝗲𝘆+𝗠𝗲𝗱𝗶𝗮 ➠ #REGION_FLAG# #REGION_NAME#',
+  title: '𝗦𝘁𝗿𝗲𝗮𝗺𝗶𝗻𝗴 𝗺𝗲𝗱𝗶𝗮 𝗗𝗶𝘀𝗻𝗲𝘆⁺( 解锁检测 )',
+  availableContent: '支持解锁 𝗗𝗶𝘀𝗻𝗲𝘆⁺𝗠𝗲𝗱𝗶𝗮 ➠ #REGION_FLAG# #REGION_NAME#',
   availableIcon: undefined,
   availableIconColor: undefined,
   availableStyle: 'good',
@@ -51,7 +51,7 @@ const DEFAULT_OPTIONS = {
   comingIcon: undefined,
   comingIconColor: undefined,
   comingStyle: 'info',
-  notAvailableContent: '不支持 𝗗𝗶𝘀𝗻𝗲𝘆+',
+  notAvailableContent: '不支持 𝗗𝗶𝘀𝗻𝗲𝘆⁺𝗠𝗲𝗱𝗶𝗮',
   notAvailableIcon: undefined,
   notAvailableIconColor: undefined,
   notAvailableStyle: 'alert',
